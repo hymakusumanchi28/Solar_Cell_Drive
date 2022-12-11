@@ -1,0 +1,45 @@
+body {
+  background-color: #9E9E9E;
+  padding: 5vh 10vw;
+}
+
+.yearCard {
+  background-color: #fff;
+  font-family: Lucida Handwriting;
+  color: #000;
+  padding: 5vh 5vw;
+  border-radius: 10px;
+  margin: 2vh 0;
+}
+
+.checkbox {
+  background-color: #fff;
+  font-family: Lucida Handwriting;
+  color: #000;
+  padding: 5vh 5vw;
+  border-radius: 8px;
+}
+
+.yearCard select {
+  margin: 2vh 5vw;
+}
+
+#yearCard1,
+#yearCard2,
+#yearCard3 {
+  display: none;
+}
+
+.yearCard div,
+.yearCard button {
+  display: none;
+}
+
+.yearCard input {
+  margin: 2vh 2vw;
+}
+
+.yearCard button {
+  float: right;
+  margin-right: 5vw;
+}
